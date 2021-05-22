@@ -1,6 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.btn {
+	display: flex;
+	justify-content: center;
+	
+}
+
 .boton1 {
 	margin: 20px;
 	background-color: blue;
